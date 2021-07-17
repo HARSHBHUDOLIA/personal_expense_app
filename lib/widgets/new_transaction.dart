@@ -93,7 +93,7 @@ class _NewTransactionState extends State<NewTransaction> {
                     SizedBox(
                       width: 20,
                     ),
-                    AdaptiveFlatButton('Choose a Date', _presentDatePicker),
+                    AdaptiveFlatButton('Choose one Date', _presentDatePicker),
                   ],
                 ),
               ),
